@@ -80,11 +80,12 @@ Below 1000: Additional recommendations based on state-wise cutoffs
 # **Screenshots of Key Visualizations**
 
 Quiz History Analysis, Predicted Rank and College,Weak Areas and Improvement Trends
-<img src="public/images/1.png" width="500">
-<img src="public/images/2.png" width="500">
-<img src="public/images/3.png" width="500">
-<img src="public/images/4.png" width="500">
-<img src="public/images/5.png" width="500">
+
+<img src="/server/public/images/1.png" width="500">
+<img src="/server/public/images/2.png" width="500">
+<img src="/server/public/images/3.png" width="500">
+<img src="/server/public/images/4.png" width="500">
+<img src="/server/public/images/5.png" width="500">
 
 Conclusion
 This system helps NEET aspirants track their progress, predict their rank, and plan their studies more effectively. By suggesting likely colleges based on predicted rank, students can focus on the right strategies to improve their performance and maximize their chances of admission to the desired college.
